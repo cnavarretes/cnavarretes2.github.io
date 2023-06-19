@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark"# "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -85,7 +85,7 @@ author:
   bio              : "CNES Fellow - Observatoire de la Côte d'Azur"
   location         : "Nice, France"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Camila-Navarrete-3" # example: "https://www.researchgate.net/profile/yourprofile"
